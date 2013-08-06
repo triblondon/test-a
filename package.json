@@ -5,7 +5,7 @@
 	"bugs": "andrew.betts@ft.com",
 	"dependencies": {
 		"test-c": "git://github.com/triblondon/test-c.git#1.5"
-	}
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/triblondon/test-a.git"
