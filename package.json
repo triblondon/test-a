@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"bugs": "andrew.betts@ft.com",
 	"peerDependencies": {
-		"test-c": "git://github.com/triblondon/test-c.git#v1.0.1"
+		"test-c": "git://github.com/triblondon/test-c.git#v1.0.0"
 	},
 	"repository": {
 		"type": "git",
