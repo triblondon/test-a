@@ -1,0 +1,12 @@
+{
+  "name": "test-a",
+  "version": "1.0.0",
+  "main": "/src/js/main.js",
+  "roots": {
+    "js": "/src/js/main.js",
+    "css": "/src/sass/style.sass"
+  },
+  "dependencies": {
+    "test-c": "git://github.com/triblondon/test-c.git#v1.0.1"
+  }
+}
