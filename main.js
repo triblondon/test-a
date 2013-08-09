@@ -1,5 +1,5 @@
 var c = require('test-c');
-var my = require('./othermodule.js');
+var my = require('src/js/othermodule.js');
 
 exports.run = function() {
 
