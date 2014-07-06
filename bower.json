@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "main.js",
   "dependencies": {
-    "test-c": "git://github.com/triblondon/test-c.git#<=2",
+    "test-c": "git://github.com/triblondon/test-c.git#>1.5.0",
     "d3": "<3.2"
   }
 }
